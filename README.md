@@ -1,6 +1,6 @@
 # Проектная работа "Веб-ларек"
 
-#### ССЫЛКА НА ПРОЕКТ: `https://flipflopjr.github.io/web-larek-frontend/`  
+#### ССЫЛКА НА ПРОЕКТ: `https://alexchikov.github.io/web-larek-frontend/`  
 #
   
 Стек: HTML, SCSS, TS, Webpack
